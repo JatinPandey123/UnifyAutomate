@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_SAVE</name>
+   <tag></tag>
+   <elementGuidId>767383a6-43bc-4052-8406-48fb436ef481</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='content-non-phone']/li/ul/li[3]/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.hb-save-btn.hb-ripple.node-hb-save-btn.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;SAVE&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e1643ca1-9ee7-4f42-bb1e-04fa17a46bb3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hb-save-btn hb-ripple node-hb-save-btn ng-star-inserted</value>
+      <webElementGuid>82195e8b-028f-4eab-94be-88c169d09694</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> SAVE </value>
+      <webElementGuid>b5a7a750-ac21-49e0-bf51-233f1d7ec6ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-non-phone&quot;)/li[1]/ul[1]/li[@class=&quot;has-search ng-star-inserted&quot;]/button[@class=&quot;hb-save-btn hb-ripple node-hb-save-btn ng-star-inserted&quot;]</value>
+      <webElementGuid>02ce5e6e-d8e9-426f-a82e-d1af6d09df2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='content-non-phone']/li/ul/li[3]/button</value>
+      <webElementGuid>1dbd309d-a440-406b-835d-de0b049abfe0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DISCARD'])[1]/following::button[1]</value>
+      <webElementGuid>5db0455e-15f1-4454-8c74-5e7b91cec672</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New UOM Set'])[1]/following::button[3]</value>
+      <webElementGuid>8655e15d-f844-4a4f-9174-b587c2d1350a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DISCARD'])[2]/preceding::button[1]</value>
+      <webElementGuid>4a7a5603-2236-4673-b06f-f59c332665a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SAVE'])[4]/preceding::button[2]</value>
+      <webElementGuid>904ece84-c395-472d-8568-0ec45bac185f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/button</value>
+      <webElementGuid>378df576-5478-431a-8062-17e1e52150b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' SAVE ' or . = ' SAVE ')]</value>
+      <webElementGuid>a4415301-b7d6-469c-8560-5a34d3d86eec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='productCreatetionMaster']/div/div/div/div/div/div[2]/div/button[2]</value>
+      <webElementGuid>355e101b-9090-4963-866e-a8a7a519c96a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New product'])[1]/following::button[2]</value>
+      <webElementGuid>1e73a890-7dc1-46b8-81f4-87911806b886</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button[2]</value>
+      <webElementGuid>505ecb83-641b-4658-9ba3-e7f6fc607256</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' SAVE' or . = ' SAVE')]</value>
+      <webElementGuid>e06aed7d-47ad-4f95-af75-36ddbad49706</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

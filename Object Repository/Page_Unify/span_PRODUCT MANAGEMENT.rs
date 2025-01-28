@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_PRODUCT MANAGEMENT</name>
+   <tag></tag>
+   <elementGuidId>06169de5-ef71-4aa1-a478-501a394d3dee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='products_anchor']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#products_anchor > span.main-menu-heading</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;PRODUCT MANAGEMENT&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f7603922-6756-4087-ba65-590b4c835790</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>main-menu-heading</value>
+      <webElementGuid>d26a8e23-1d95-42cc-b8c7-e5b86c903ca6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PRODUCT MANAGEMENT </value>
+      <webElementGuid>7f0a1926-c158-491a-a77d-6451b6e326f3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;products_anchor&quot;)/span[@class=&quot;main-menu-heading&quot;]</value>
+      <webElementGuid>5eb27102-331c-4631-a254-30923e05ec27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='products_anchor']/span[2]</value>
+      <webElementGuid>1fecf78d-fc45-4542-a51e-912d50ce9689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Stock Take'])[1]/following::span[2]</value>
+      <webElementGuid>0c73e142-9cfe-44c7-9a23-b1e4b5119d7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cost List'])[1]/following::span[2]</value>
+      <webElementGuid>121161fb-db6d-474a-acb9-5c399f2e894f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRODUCT MANAGEMENT'])[2]/preceding::span[1]</value>
+      <webElementGuid>603d538c-5fdc-482b-9c8f-ce18922d53f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Catalog'])[1]/preceding::span[1]</value>
+      <webElementGuid>aa15bedc-bd33-4e60-afbf-ba12d578d7fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PRODUCT MANAGEMENT']/parent::*</value>
+      <webElementGuid>508a5c48-d8f1-4a3d-b386-1d5704ae2a4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a/span[2]</value>
+      <webElementGuid>e2cb5096-fbee-4e44-acd8-e87b3b942f66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'PRODUCT MANAGEMENT ' or . = 'PRODUCT MANAGEMENT ')]</value>
+      <webElementGuid>5e987756-a3db-4617-91c8-dc4db7909329</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

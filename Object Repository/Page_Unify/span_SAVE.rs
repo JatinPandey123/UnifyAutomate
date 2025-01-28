@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_SAVE</name>
+   <tag></tag>
+   <elementGuidId>3cd81356-2124-4fb1-94bc-a36f3527d9c6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='productCreatetionMaster']/div/div/div/div/div/div[2]/div/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.hb-save-btn.hb-no-margin > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;SAVE&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5b5662a9-8808-4b7c-8100-0cbbe2061e94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> SAVE</value>
+      <webElementGuid>7179df90-c52d-4182-a824-937c623ebce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;productCreatetionMaster&quot;)/div[@class=&quot;row ng-star-inserted&quot;]/div[@class=&quot;templates-heading-bar&quot;]/div[@class=&quot;tempalte-heading-display&quot;]/div[@class=&quot;hb-module-header-container hb-sticky&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3 col-xs-12 col-sm-3 hb-no-padding&quot;]/div[@class=&quot;templates-buttons&quot;]/button[@class=&quot;hb-save-btn hb-no-margin&quot;]/span[1]</value>
+      <webElementGuid>9fe6cf4b-33a3-4b7d-a580-02b767209894</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='productCreatetionMaster']/div/div/div/div/div/div[2]/div/button[2]/span</value>
+      <webElementGuid>8da27ba0-faf0-46b4-b7c9-a64d4ac26a38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DISCARD'])[1]/following::span[1]</value>
+      <webElementGuid>4c8cc1ee-47d3-4f50-9cd4-566816792cb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New product'])[1]/following::span[1]</value>
+      <webElementGuid>7841be42-f49e-48e2-ba07-4c8e2ca6b0c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/preceding::span[1]</value>
+      <webElementGuid>8d9307b1-cc47-463e-b040-35ee7bc6350b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>40378565-9ebf-4aed-a8b8-cb8f9fa147a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' SAVE' or . = ' SAVE')]</value>
+      <webElementGuid>350e127b-74b1-4282-b69d-7caf1be6b5e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>simple-snack-bar_Unit Of Measure Updated Su_c01e59</name>
+   <tag></tag>
+   <elementGuidId>159c6822-efcb-401f-9416-446c98b5cd9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cdk-overlay-3']/snack-bar-container/simple-snack-bar</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>simple-snack-bar.mat-simple-snackbar.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>simple-snack-bar</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>simple-snack-bar</value>
+      <webElementGuid>dae56087-b1cb-4f66-a626-a6ab21d50c0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-simple-snackbar ng-star-inserted</value>
+      <webElementGuid>82ef6bd6-a904-4498-a307-949d7bd53b44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Unit Of Measure Updated Successfully  </value>
+      <webElementGuid>b772d4db-9708-427e-a2bf-003b75cecdbf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cdk-overlay-3&quot;)/snack-bar-container[@class=&quot;mat-snack-bar-container ng-tns-c13-27 ng-trigger ng-trigger-state marketplace-edit mat-snack-bar-center mat-snack-bar-top ng-star-inserted&quot;]/simple-snack-bar[@class=&quot;mat-simple-snackbar ng-star-inserted&quot;]</value>
+      <webElementGuid>a1fb19ed-ad50-49e3-9f12-03d65e6fe533</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-3']/snack-bar-container/simple-snack-bar</value>
+      <webElementGuid>3073e87d-f630-42da-aa6d-f1e035e6c6c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Unit Of Measure Updated Successfully'])[1]/following::simple-snack-bar[1]</value>
+      <webElementGuid>8c2de75c-f5c0-475a-8c9c-dfe277cee89b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALTERNATE UOM VALUE'])[20]/following::simple-snack-bar[1]</value>
+      <webElementGuid>2a8ddfbb-b3ca-4cf6-b6ff-4e3201801077</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//simple-snack-bar</value>
+      <webElementGuid>1206653f-4aec-4f77-bba5-f8258e794596</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//simple-snack-bar[(text() = ' Unit Of Measure Updated Successfully  ' or . = ' Unit Of Measure Updated Successfully  ')]</value>
+      <webElementGuid>779b12b6-d27a-45ec-8dcd-1adcb529ea74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cdk-overlay-1']/snack-bar-container/simple-snack-bar</value>
+      <webElementGuid>aa72722e-6694-48db-806f-cbb332a6fd29</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

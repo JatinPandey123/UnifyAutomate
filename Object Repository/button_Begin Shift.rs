@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Begin Shift</name>
+   <tag></tag>
+   <elementGuidId>46cb0ec0-9c8f-4560-822a-4ab708d54af0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='shift-begin-modal']/div/div/div[3]/div/div[2]/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.shift-end-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Begin Shift&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1f935f3c-d723-49d4-b249-2b38103d1576</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>shift-end-btn</value>
+      <webElementGuid>7717909b-9fe6-4d47-95c2-59ed49429b69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Begin Shift  </value>
+      <webElementGuid>9ecaa5f6-e9c8-4ea8-b2f1-386c27822b55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;shift-begin-modal&quot;)/div[@class=&quot;modal-dialog&quot;]/div[@class=&quot;modal-content_1&quot;]/div[@class=&quot;modal-footer1&quot;]/div[@class=&quot;col-lg-12 no-padding&quot;]/div[@class=&quot;col-sm-5 col-md-5 col-lg-5 text-right no-padding&quot;]/button[@class=&quot;shift-end-btn&quot;]</value>
+      <webElementGuid>10dc4ccc-0260-4acb-bc3b-82f4da889c49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='shift-begin-modal']/div/div/div[3]/div/div[2]/button[2]</value>
+      <webElementGuid>38e3db7a-9c24-47aa-b445-a149231842bb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CLEAR'])[1]/following::button[1]</value>
+      <webElementGuid>6e71e25c-3720-4cfe-9aea-479a996737ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='&lt; BACK TO COUNTER'])[1]/following::button[2]</value>
+      <webElementGuid>74373a93-d0ad-40b5-94e8-1c7f9f48f883</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Begin Shift']/parent::*</value>
+      <webElementGuid>477fca5b-15ca-4e60-b8bc-310ad5b7bb1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/button[2]</value>
+      <webElementGuid>380a0eb3-a619-424a-8a44-8f1685dd7396</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Begin Shift  ' or . = ' Begin Shift  ')]</value>
+      <webElementGuid>b42b7715-f486-4c48-823c-e0e83de4cdd9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

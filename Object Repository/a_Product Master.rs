@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Product Master</name>
+   <tag></tag>
+   <elementGuidId>60ffb4ef-7844-4e7d-b735-e24635ff2c79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='products_div']/ul/li[3]/ul/li[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Product Master&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9a5313a7-47d6-40b5-8e3c-563e8239633f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub-menu-heading sub-menu-font-size</value>
+      <webElementGuid>f3833098-8818-4a03-892f-4345a97ed5d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-router-link</name>
+      <type>Main</type>
+      <value>product/master/list</value>
+      <webElementGuid>9341dc4e-41b3-4537-a187-dddbf709d6d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/product/master/list</value>
+      <webElementGuid>944533eb-8562-4ec1-8394-12eb3d589d10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Product Master</value>
+      <webElementGuid>47aaaffa-fd1c-4fe0-b9fd-313b50b97bb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;products_div&quot;)/ul[1]/li[@class=&quot;ng-star-inserted&quot;]/ul[1]/li[@class=&quot;sub-menu-full ng-star-inserted&quot;]/a[@class=&quot;sub-menu-heading sub-menu-font-size&quot;]</value>
+      <webElementGuid>125920fe-e155-4cf7-a9e7-825edb737515</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='products_div']/ul/li[3]/ul/li[2]/a</value>
+      <webElementGuid>391a8c50-3967-4d6b-aa91-5481f22a0c2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Product Master')]</value>
+      <webElementGuid>6acb63f5-fe8a-4add-907b-73cece183121</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Catalog'])[1]/following::a[1]</value>
+      <webElementGuid>18690386-b4d2-4ba5-9c6f-125c7e1aa97e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRODUCT MANAGEMENT'])[2]/following::a[2]</value>
+      <webElementGuid>21df5943-b6f2-493a-97d7-f715692225bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Alias'])[1]/preceding::a[1]</value>
+      <webElementGuid>503cbfef-7f61-4fed-9b7d-6fe486a6aa00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UOM Conversion'])[1]/preceding::a[2]</value>
+      <webElementGuid>e045a8df-9e8e-482e-a2c0-a6b5e4c9c78a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Product Master']/parent::*</value>
+      <webElementGuid>9767afbb-e67d-4597-9c53-c0416f032b93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/product/master/list')]</value>
+      <webElementGuid>0943ad6a-8ec4-4079-b432-222bbe8dfea4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a/div/ul/li[3]/ul/li[2]/a</value>
+      <webElementGuid>3e1498cf-e51e-43a9-99c0-1e582172744e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/product/master/list' and (text() = 'Product Master' or . = 'Product Master')]</value>
+      <webElementGuid>33d5f806-ed0e-4f5b-8f1b-5d70de024b1e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

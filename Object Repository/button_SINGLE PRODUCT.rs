@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_SINGLE PRODUCT</name>
+   <tag></tag>
+   <elementGuidId>2c67c986-c22c-406e-965f-90289e78e35c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='prod-master-main-list']/div/div[4]/div/div[2]/div/div/button[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.add-btn-popup-second-btn</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;SINGLE PRODUCT&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>f1d42792-b373-4546-b006-564d591aecb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>add-btn-popup-second-btn</value>
+      <webElementGuid>23c926db-e4d4-4428-b014-3279af4e5906</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> SINGLE PRODUCT </value>
+      <webElementGuid>66415ed4-9fed-49f1-a603-d7d9664399d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;prod-master-main-list&quot;)/div[@class=&quot;container-fluid ng-star-inserted&quot;]/div[@class=&quot;margin-content&quot;]/div[@class=&quot;row&quot;]/div[2]/div[@class=&quot;hb-position-relative ng-star-inserted&quot;]/div[@class=&quot;add-btn-popup-section&quot;]/button[@class=&quot;add-btn-popup-second-btn&quot;]</value>
+      <webElementGuid>f1dadc4a-0fbd-4f0b-90b5-a449c4239891</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='prod-master-main-list']/div/div[4]/div/div[2]/div/div/button[2]</value>
+      <webElementGuid>aa601892-e7fb-4acb-8e88-1ad9046926cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRODUCT UPLOAD'])[1]/following::button[1]</value>
+      <webElementGuid>d5d0a395-d20a-45f8-84cb-18434a4a7d6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=': TestTagsCommon,test2common10,testtesttagscommon10'])[4]/following::button[2]</value>
+      <webElementGuid>cf7f8044-5af3-4f2c-bbad-cc0ff9922054</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status Progress'])[1]/preceding::button[2]</value>
+      <webElementGuid>02cb07f2-8704-4f99-b28a-7f02e14a65f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::button[2]</value>
+      <webElementGuid>c220cc9b-d319-4f60-a2ef-da2e4c7f688f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SINGLE PRODUCT']/parent::*</value>
+      <webElementGuid>88b3217f-8272-49eb-a302-a939fa56462d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button[2]</value>
+      <webElementGuid>e276a6de-9bf7-4be5-9401-9c19e4e369ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' SINGLE PRODUCT ' or . = ' SINGLE PRODUCT ')]</value>
+      <webElementGuid>ff7194dd-9959-47bd-a44b-3c13733a0153</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

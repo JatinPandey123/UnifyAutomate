@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_UOM Conversion</name>
+   <tag></tag>
+   <elementGuidId>8a444b73-3e80-40e1-bd8b-26b7011dbaaa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='products_div']/ul/li[3]/ul/li[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;UOM Conversion&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>dc58b665-fff5-4acf-86ef-746562c28ea2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sub-menu-heading sub-menu-font-size</value>
+      <webElementGuid>22ed41b7-bb89-4aec-8779-27bdf5ae4401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-router-link</name>
+      <type>Main</type>
+      <value>product/uomconversion</value>
+      <webElementGuid>f2d40a85-5b4f-427b-8ee8-a0a27a878f9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/product/uomconversion</value>
+      <webElementGuid>6b8ad922-8517-405a-a6a4-4ac9eb04dc4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UOM Conversion</value>
+      <webElementGuid>93a51d2c-a7cb-401f-a724-80327ed5b6c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;products_div&quot;)/ul[1]/li[@class=&quot;ng-star-inserted&quot;]/ul[1]/li[@class=&quot;sub-menu-full ng-star-inserted&quot;]/a[@class=&quot;sub-menu-heading sub-menu-font-size&quot;]</value>
+      <webElementGuid>3c25cf57-3457-4ee0-9e09-a4c8c260c399</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='products_div']/ul/li[3]/ul/li[4]/a</value>
+      <webElementGuid>75be9546-1d9b-4416-9af6-1fb7f286d0c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'UOM Conversion')]</value>
+      <webElementGuid>d5064f42-40b4-48a2-8761-7608b711150e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Alias'])[1]/following::a[1]</value>
+      <webElementGuid>eae80a2d-df50-4554-b1e4-767e830a6b10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Product Master'])[1]/following::a[2]</value>
+      <webElementGuid>e62ffbc5-a8aa-4751-a156-49fb5d4d40b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand Store Attribute Mapping'])[1]/preceding::a[1]</value>
+      <webElementGuid>bcbba4db-bdbd-497d-af9c-cb7af0aaccc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hierarchy Type'])[1]/preceding::a[2]</value>
+      <webElementGuid>ddb816ac-284a-40b9-84ef-858c46d6c1d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='UOM Conversion']/parent::*</value>
+      <webElementGuid>6ce92e76-d12a-4c33-9662-b9621eb18d0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/product/uomconversion')]</value>
+      <webElementGuid>8f6b157c-e15e-483b-a32d-70e57269e9dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a/div/ul/li[3]/ul/li[4]/a</value>
+      <webElementGuid>669156e3-014e-4e05-ba37-350c298a4e9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/product/uomconversion' and (text() = 'UOM Conversion' or . = 'UOM Conversion')]</value>
+      <webElementGuid>54a09767-dcdc-481d-ad9a-da073319533a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

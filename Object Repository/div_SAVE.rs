@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SAVE</name>
+   <tag></tag>
+   <elementGuidId>d16923c8-8e68-4aee-bc18-11581bcb3b99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='left']/div[2]/app-sell-actions/div/div/div[2]/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-12.col-sm-12.col-lg-12.check_out.enabledButton > div.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#left >> internal:text=&quot;SAVE&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ef212ae2-c996-428f-bcfb-bce46d500791</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>dd54254e-a8d7-4fd0-bc69-65f71085fab0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> SAVE </value>
+      <webElementGuid>95e99680-8fb3-40d7-8472-8a8ad4287417</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;left&quot;)/div[@class=&quot;ng-star-inserted&quot;]/app-sell-actions[1]/div[1]/div[@class=&quot;row br_t&quot;]/div[@class=&quot;col-md-3 col-sm-3 col-lg-3 pd_r_l&quot;]/div[@class=&quot;col-md-12 col-sm-12 col-lg-12 check_out enabledButton&quot;]/div[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>f4421190-a7c8-4ce7-a222-d37c564b4abe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='left']/div[2]/app-sell-actions/div/div/div[2]/div[3]/div</value>
+      <webElementGuid>55a0e68e-99c5-43c7-8de6-3e0ac26cf83d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Net Amount'])[1]/following::div[2]</value>
+      <webElementGuid>fb2a3db5-fa70-47da-a2e2-d1628c8af9b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discard'])[1]/following::div[5]</value>
+      <webElementGuid>be79bbda-a970-4d56-84e8-ea6cccfb19cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sylphy Corp1'])[1]/preceding::div[2]</value>
+      <webElementGuid>dcab0589-f88f-46e3-9263-d2aaf60094b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mumbai India'])[1]/preceding::div[4]</value>
+      <webElementGuid>a387afe5-971f-4a02-b9b1-0c1f6e42c92f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//app-sell-actions/div/div/div[2]/div[3]/div</value>
+      <webElementGuid>1f806163-00a0-4977-aedd-6e1047d2157c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' SAVE ' or . = ' SAVE ')]</value>
+      <webElementGuid>14c11518-c95c-4aa8-90d7-ca7451a0b5c5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

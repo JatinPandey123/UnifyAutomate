@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sylphy Test</name>
+   <tag></tag>
+   <elementGuidId>496d2050-3e4d-4bc8-98d7-597f8d4ed271</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='landingPage']/div/div[6]/div[2]/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#landingPage div >> internal:has-text=&quot;Sylphy Test&quot;i >> nth=4</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bed9ecd1-cbab-435e-a08e-c2f83de417cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>user-list-card-list-tab</value>
+      <webElementGuid>a46ec784-9a2c-4370-9196-3db0138bc9bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-klass</name>
+      <type>Main</type>
+      <value>user-list-card-list-tab</value>
+      <webElementGuid>8aca0c2f-95d3-404c-9510-36dcdb7241b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Sylphy Test</value>
+      <webElementGuid>10955bad-4eb2-4296-b325-277ac7bde957</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;landingPage&quot;)/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12 no-padding ng-star-inserted&quot;]/div[@class=&quot;col-sm-8 col-md-8 col-lg-8 col-xs-8 no-padding&quot;]/div[@class=&quot;col-lg-12 col-sm-12 col-md-12 ng-star-inserted&quot;]/div[@class=&quot;col-xl-3 col-lg-4 col-sm-4 col-xs-6 user-list-card-padding ng-star-inserted&quot;]/div[@class=&quot;user-list-card-list-tab&quot;]</value>
+      <webElementGuid>02613f99-5f14-4998-80ea-199df554b2ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='landingPage']/div/div[6]/div[2]/div[4]/div</value>
+      <webElementGuid>a7b7a1e5-57c6-4c34-9b02-62353cee20fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Group'])[1]/following::div[12]</value>
+      <webElementGuid>433ec633-7836-4e31-bfe2-122617cb126e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='='])[2]/following::div[23]</value>
+      <webElementGuid>f1b525e9-3969-4950-9b8e-1437cefaa205</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/div</value>
+      <webElementGuid>f79cc165-0bb1-4090-9265-2e74a8d04087</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Sylphy Test' or . = ' Sylphy Test')]</value>
+      <webElementGuid>7a2707e0-98b8-415f-a5e7-0daac7d47d2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

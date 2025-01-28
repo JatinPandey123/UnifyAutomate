@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Select Group_logo-icon ng-star-inserted</name>
+   <tag></tag>
+   <elementGuidId>8433ff12-9f59-4bf2-b579-4eb1c16a441e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='landingPage']/div/div[6]/div[2]/div[4]/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=img[name=&quot;brand-logo&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c3678adb-aba8-44bb-b79c-fae2d50fbb9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>brand-logo</value>
+      <webElementGuid>b0898d51-2f25-452d-8ff9-bb242b1e7b14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>logo-icon ng-star-inserted</value>
+      <webElementGuid>d01afe50-fdb2-4765-8fc6-58f6ec1b9159</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onerror</name>
+      <type>Main</type>
+      <value>this.onerror=null; this.src='assets/images/defaultgroupimage.svg'</value>
+      <webElementGuid>5d1bcd40-23ec-4fac-8ae7-f9482fb77055</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/images/defaultgroupimage.svg</value>
+      <webElementGuid>d52fb260-d1be-4ed9-b00b-730ac82c233a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;landingPage&quot;)/div[@class=&quot;col-lg-12 col-md-12 col-sm-12 col-xs-12 no-padding ng-star-inserted&quot;]/div[@class=&quot;col-sm-8 col-md-8 col-lg-8 col-xs-8 no-padding&quot;]/div[@class=&quot;col-lg-12 col-sm-12 col-md-12 ng-star-inserted&quot;]/div[@class=&quot;col-xl-3 col-lg-4 col-sm-4 col-xs-6 user-list-card-padding ng-star-inserted&quot;]/div[@class=&quot;user-list-card-list-tab&quot;]/div[@class=&quot;image_container&quot;]/img[@class=&quot;logo-icon ng-star-inserted&quot;]</value>
+      <webElementGuid>9d62538c-6dfa-40d9-b737-7b861ea4b898</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='landingPage']/div/div[6]/div[2]/div[4]/div/div/img</value>
+      <webElementGuid>805977ac-e557-498c-b2ec-7462ac610ad4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='brand-logo'])[2]</value>
+      <webElementGuid>f45aa220-8584-474a-b6b1-de2bbaf11abb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/img</value>
+      <webElementGuid>8ee1ca07-6fd7-4bd8-aa94-95f57ae6b3fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'brand-logo' and @src = 'assets/images/defaultgroupimage.svg']</value>
+      <webElementGuid>63aac71f-ea97-49ec-9440-b901b20ecc55</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

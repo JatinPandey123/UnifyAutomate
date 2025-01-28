@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_Mobile Number_Rectangle_3471</name>
+   <tag></tag>
+   <elementGuidId>17a42727-079c-4761-906d-60acbc630d07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//path[@id = 'Rectangle_3471']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>svg.equ_icon > #Group_3991 > #Rectangle_3471</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value></value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>e7c57b07-36e6-4b8d-91cf-c4cb0a580cdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M0,0H30a2,2,0,0,1,2,2V30a2,2,0,0,1-2,2H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z</value>
+      <webElementGuid>9549aecd-2a7e-4f8a-8a4e-f1cf5d737253</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-name</name>
+      <type>Main</type>
+      <value>Rectangle 3471</value>
+      <webElementGuid>9e80175d-9837-416a-ac61-5481feef8dce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>var(--darkThemeTableHeaderColor)</value>
+      <webElementGuid>825114f2-40bb-475d-b8b5-0be73d0c9497</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>Rectangle_3471</value>
+      <webElementGuid>e2c7507e-f8bd-46b3-8881-9a8d23d61159</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>translate(473 55)</value>
+      <webElementGuid>a2d2a4b3-d1b3-46b9-b087-c0ecb84edec5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;productSearchDiv&quot;)/svg[@class=&quot;equ_icon&quot;]/g[@id=&quot;Group_3991&quot;]/path[@id=&quot;Rectangle_3471&quot;]</value>
+      <webElementGuid>58e6714e-5420-4ab7-a87e-ac2e97b974c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//path[@id = 'Rectangle_3471']</value>
+      <webElementGuid>74fdab9a-2c63-4a53-aa87-721194d23816</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>mat-icon_more_vert</name>
+   <tag></tag>
+   <elementGuidId>2bf47820-2225-4a4a-90d0-bc27002d6dd0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='hb-mat-btn-css-override']/span/mat-icon</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#hb-mat-btn-css-override > span.mat-button-wrapper > mat-icon.mat-icon.notranslate.material-icons.mat-icon-no-color</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li >> internal:has-text=&quot;gfdfgffmore_vert BASE UOM VALUE ALTERNATE UOM VALUE&quot;i >> #hb-mat-btn-css-override</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>mat-icon</value>
+      <webElementGuid>b6b88eb5-3ec8-46f5-935c-0d5062f21aa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mat-icon notranslate material-icons mat-icon-no-color</value>
+      <webElementGuid>7d1a9f1f-f2e8-4f6c-b832-88ea41d78db4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>c049f997-adaf-4f5b-9428-38293fc21d33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4bcb591c-8f77-4054-82b2-94556a846163</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>more_vert</value>
+      <webElementGuid>e37d4806-67ea-4cff-9ae1-2ef4ece8a22b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;uom-list-main-div&quot;)/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;col-lg-12  col-md-12 col-sm-11  col-xs-11 no-padding Bgcolor tableClass&quot;]/div[@class=&quot;col-lg-12  col-md-12 col-sm-12  col-xs-12&quot;]/ul[@class=&quot;counter-sidebar&quot;]/div[@class=&quot;panel-group&quot;]/div[@class=&quot;panel-heading&quot;]/li[@class=&quot;ng-star-inserted&quot;]/div[1]/div[@class=&quot;pull-right&quot;]/button[@id=&quot;hb-mat-btn-css-override&quot;]/span[@class=&quot;mat-button-wrapper&quot;]/mat-icon[@class=&quot;mat-icon notranslate material-icons mat-icon-no-color&quot;]</value>
+      <webElementGuid>9dd515c4-1f8c-4c36-8774-8794fcb166ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='hb-mat-btn-css-override']/span/mat-icon</value>
+      <webElementGuid>9f39f55f-63c8-400e-ab51-92b9c4b6672a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='gfdfgff'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>c8fcb089-da0f-4754-a94c-c758139189f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='STATUS'])[1]/following::mat-icon[2]</value>
+      <webElementGuid>76a147aa-2e71-4eaa-9e6b-0b97f432c9fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BASE UOM VALUE'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>cf59c268-8e9b-4fa2-9bb6-46fcc56a8d79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALTERNATE UOM VALUE'])[1]/preceding::mat-icon[1]</value>
+      <webElementGuid>17d536ef-88cd-4827-95fe-875b26418994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div[2]/button/span/mat-icon</value>
+      <webElementGuid>5baa57a1-4011-487f-a80b-d960603d176e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//mat-icon[(text() = 'more_vert' or . = 'more_vert')]</value>
+      <webElementGuid>e9882d93-66ca-4241-91c5-e3e70c1cedc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='test7'])[1]/following::mat-icon[1]</value>
+      <webElementGuid>e3b38da3-8f9b-418a-8ff2-5008993238be</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

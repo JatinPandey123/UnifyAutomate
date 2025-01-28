@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mumbai Store 1</name>
+   <tag></tag>
+   <elementGuidId>217321bd-fdad-4a81-9b1e-3c40229ba161</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='counter_selection_modal']/div[5]/div[2]/div[2]/div[3]/div/div/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.c_name</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Mumbai Store 1&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>78fc4c86-ddd5-4915-aba5-6aac360e5450</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c_name</value>
+      <webElementGuid>91a35da1-8f21-49a4-a765-018e60a45e80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-klass</name>
+      <type>Main</type>
+      <value>c_name</value>
+      <webElementGuid>9acb97d6-fc38-4bdb-8cda-1459ae684847</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Mumbai Store 1 </value>
+      <webElementGuid>9888d1c0-94f4-44c8-b76b-10ca0faac1a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;counter_selection_modal&quot;)/div[5]/div[@class=&quot;col-sm-10 col-md-10 col-lg-8 col-xs-10 no-padding&quot;]/div[@class=&quot;col-lg-12 col-sm-12 col-md-12 middle-height ng-star-inserted&quot;]/div[@class=&quot;col-lg-12 col-sm-12 col-md-12 no-padding&quot;]/div[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;col-sm-12 col-md-6 col-lg-6 col-xl-4 hb-no-padding company-list-card-padding ng-star-inserted&quot;]/div[@class=&quot;card-box&quot;]/div[1]/div[@class=&quot;Second_div1&quot;]/div[@class=&quot;c_name&quot;]</value>
+      <webElementGuid>95f9aad1-3b22-4831-82b5-58305453fb5b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='counter_selection_modal']/div[5]/div[2]/div[2]/div[3]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>7e56ceed-a013-4110-aa1b-baad7de47cac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sylphy Corp1'])[1]/following::div[9]</value>
+      <webElementGuid>eb4cd4d6-2d4e-4f23-9224-fd67c7861cdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select Store'])[1]/following::div[12]</value>
+      <webElementGuid>ec11bba6-18d9-49f7-a650-1362003e7bef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MUM1'])[1]/preceding::div[1]</value>
+      <webElementGuid>976dd590-4433-4a4e-a6b8-a1a0ed0d8100</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mumbai Store 10'])[1]/preceding::div[3]</value>
+      <webElementGuid>4dd4f637-c25f-4969-bd91-3f2b4e1f362f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mumbai Store 1']/parent::*</value>
+      <webElementGuid>7b8abc67-e6bc-4c45-be11-2c31556c8c6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]/div</value>
+      <webElementGuid>d3a0330c-11a9-481e-8270-f5a50d322c4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Mumbai Store 1 ' or . = ' Mumbai Store 1 ')]</value>
+      <webElementGuid>1aabe44c-8566-41f8-9c82-b07377c9379f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

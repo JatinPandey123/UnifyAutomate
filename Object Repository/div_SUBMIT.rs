@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SUBMIT</name>
+   <tag></tag>
+   <elementGuidId>eb5e2744-8959-4878-bc37-bda353132ed3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='left']/div[2]/app-checkout-sell/div[2]/app-sell-actions/div/div/div[2]/div[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-12.col-sm-12.col-lg-12.check_out.enabledButton > div.ng-star-inserted</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>app-checkout-sell >> internal:text=&quot;SUBMIT&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9b47b0a7-c7a0-4277-89fd-3c4a5766bc2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-star-inserted</value>
+      <webElementGuid>1a4f4ba6-056a-4b6f-beb7-4f811c9c38aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> SUBMIT </value>
+      <webElementGuid>160d1a91-ac49-49ca-aacd-3e36dabbcf37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;left&quot;)/div[@class=&quot;ng-star-inserted&quot;]/app-checkout-sell[1]/div[@class=&quot;col-sm-12 col-md-12 col-lg-12 no-padding ng-star-inserted&quot;]/app-sell-actions[1]/div[1]/div[@class=&quot;row br_t&quot;]/div[@class=&quot;col-md-4 col-sm-4 col-lg-4 pd_r_l&quot;]/div[@class=&quot;col-md-12 col-sm-12 col-lg-12 check_out enabledButton&quot;]/div[@class=&quot;ng-star-inserted&quot;]</value>
+      <webElementGuid>cb1b017a-3ec0-4b8e-870d-e01443c4e7fe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='left']/div[2]/app-checkout-sell/div[2]/app-sell-actions/div/div/div[2]/div[3]/div</value>
+      <webElementGuid>b5c18e85-c664-42c4-bfaf-e858430474a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Net Amount'])[2]/following::div[2]</value>
+      <webElementGuid>3edb5f03-5942-435c-a407-cd7918c449ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scan To Remove Products'])[1]/following::div[5]</value>
+      <webElementGuid>90d98f2e-4780-4ce3-a6ec-2bfff3a885cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CLEAR'])[1]/preceding::div[7]</value>
+      <webElementGuid>6cf73b8e-dd76-4574-8882-95d655463731</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ACCEPT'])[1]/preceding::div[7]</value>
+      <webElementGuid>5ca7e4cc-b69a-45f6-9bbf-d07dc72e85a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='SUBMIT']/parent::*</value>
+      <webElementGuid>82577b75-85eb-462e-8069-a2a3fb733c2d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div</value>
+      <webElementGuid>75ac5bbc-34e8-4974-b38c-145cfbe068d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' SUBMIT ' or . = ' SUBMIT ')]</value>
+      <webElementGuid>cc7ec533-dd23-40d6-9566-940d2cdcbb57</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

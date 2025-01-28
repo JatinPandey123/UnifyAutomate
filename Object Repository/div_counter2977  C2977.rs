@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_counter2977  C2977</name>
+   <tag></tag>
+   <elementGuidId>d3b7cc3b-10bf-4b7c-b08d-97aa37fde64c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='card-box card-box-active']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;counter2977 C2977&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f1eb7cf9-00f9-43f7-a2df-18528b355fe8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>Second_div2</value>
+      <webElementGuid>5ba82ef0-ba79-45be-828f-94ac4ad05ad3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-klass</name>
+      <type>Main</type>
+      <value>Second_div2</value>
+      <webElementGuid>c6b717cc-40ab-4721-a4e2-80c39b2f6f84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-reflect-ng-class</name>
+      <type>Main</type>
+      <value>Second_div2</value>
+      <webElementGuid>911afb14-f9b9-44eb-88bc-9b6e3c05bf8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> counter2977  C2977   </value>
+      <webElementGuid>c0f6f23d-f378-4cfc-a789-0da1f81701b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;counter_selection_modal&quot;)/div[5]/div[@class=&quot;col-sm-10 col-md-10 col-lg-8 col-xs-10 no-padding&quot;]/div[@class=&quot;col-lg-12 col-sm-12 col-md-12 middle-height ng-star-inserted&quot;]/div[@class=&quot;col-lg-12 col-sm-12 col-md-12 no-padding ng-star-inserted&quot;]/div[@id=&quot;counterId&quot;]/div[@class=&quot;card-box&quot;]/div[1]/div[@class=&quot;Second_div2&quot;]</value>
+      <webElementGuid>5a0a9867-c387-44ca-9ea4-5210699f9465</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='counterId']/div/div/div[2])[4]</value>
+      <webElementGuid>37c22e41-df5f-46ea-af73-17c467d67324</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='C2973'])[1]/following::div[6]</value>
+      <webElementGuid>ef13f106-ae4b-4d7c-b366-3c1f71c56c72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='counter2973'])[1]/following::div[7]</value>
+      <webElementGuid>4505297b-5d6e-40fc-9aee-c56e35f7e178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[4]/div/div/div[2]</value>
+      <webElementGuid>20de8069-de3a-4bc4-a806-7d40b77e9ea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' counter2977  C2977   ' or . = ' counter2977  C2977   ')]</value>
+      <webElementGuid>e4c9df13-9baa-4ff8-a1f6-309262c3f2e4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
